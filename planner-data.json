@@ -1,0 +1,17 @@
+{
+  "_nota": "Tambah aktiviti di dalam senarai 'events'. type: academic | holiday | work | personal | pay | school. time boleh dikosongkan.",
+  "semester": {
+    "start": "",
+    "end": "",
+    "weeks": 14
+  },
+  "events": [
+    {
+      "date": "2027-01-04",
+      "time": "08:00",
+      "title": "Contoh: Mesyuarat JKE",
+      "type": "work",
+      "note": "Padam atau gantikan contoh ini"
+    }
+  ]
+}
